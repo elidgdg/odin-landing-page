@@ -4,6 +4,8 @@ body {
     min-height: 100vh;
 }
 
+/* HEADER */
+
 .header {
     background-color: #1F2937;
 
@@ -29,4 +31,6 @@ a {
     display: flex;
     gap: 10px;
 }
+
+/* HERO */
 

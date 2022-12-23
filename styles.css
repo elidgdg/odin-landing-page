@@ -73,3 +73,34 @@ h2 {
 img {
     width: 100%;
 }
+
+/* INFORMATION */
+
+h3 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.information .container {
+    display: flex;
+    gap: 30px;
+}
+
+.card p {
+    text-align: center;
+    color: #808080;
+}
+
+.card img {
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
+
+

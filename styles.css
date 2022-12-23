@@ -127,3 +127,29 @@ h3 {
     font-weight: bold;
 }
 
+/* CALL TO ACTION */
+
+.call-to-action .container{
+    display: flex;
+    align-items: center;
+}
+
+.call-to-action button {
+    margin-left: auto;
+    background: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    color: #F9FAF8;
+    padding: 5px 20px;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 40px 0;
+    padding: 5px 30px;
+}
+
+.call-to-action .text {
+    color: #F9FAF8;
+}

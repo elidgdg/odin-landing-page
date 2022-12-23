@@ -8,7 +8,10 @@ body {
     flex-direction: column;
 }
 
-
+.header, .hero, .information, .quote, .footer {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 .header, .hero {
     background-color: #1F2937;

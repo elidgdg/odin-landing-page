@@ -57,7 +57,13 @@ h2 {
 }
 
 .hero button {
-    color: #3882F6
+    background: #3882F6;
+    color: #E5E7EB;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .hero .left, .hero .right {
